@@ -1,0 +1,5 @@
+server/config/config.js
+server/database/models
+server/database/migrations
+server/database/seeders
+build/
