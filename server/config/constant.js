@@ -1,6 +1,6 @@
 export const LOCAL_PORT = 3000;
 export const defaultRoles = {
-  USER: 'user',
-  ADMIN: 'admin',
-  SUPER_ADMIN: 'super_admin'
+  SECTOR_AGENT: "sector_agent",
+  WASTE_PICKER: "waste_picker",
+  ADMIN: "admin"
 };
